@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Save the Tarkine: Environmental Protest</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #4caf50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background: #333;
+            color: white;
+            display: flex;
+            justify-content: center;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 20px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        h1, h2 {
+            color: #4caf50;
+        }
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        footer {
+            text-align: center;
+            background: #333;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .content-block {
+            margin: 20px 0;
+        }
+        .content-block img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Save the Tarkine: Environmental Protest</h1>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#tarkine-protest">Tarkine Protest</a>
+    <a href="#opposition">Opposition</a>
+    <a href="#comparison">Comparison</a>
+    <a href="#contact">Conclusion</a>
+</nav>
+
+<section id="home">
+    <h2>Introduction to the Tarkine</h2>
+    <p>The Tarkine (takayna) is one of the largest remaining wilderness areas in Tasmania, Australia. It is a region of immense natural beauty, home to rare species and ancient ecosystems, and holds deep cultural significance for the Tasmanian Aboriginal community.</p>
+    <div class="image-container">
+        <img src="tarkine-forest.jpg" alt="Tarkine Forest" width="600" height="400">
+    </div>
+</section>
+
+<section id="tarkine-protest">
+    <h2>The Tarkine Protest</h2>
+    <p>Protests to protect the Tarkine have been ongoing for years, as industries like logging and mining threaten this unique wilderness area. The Bob Brown Foundation has been one of the leading forces in these campaigns, organizing rallies, direct actions, and media campaigns.</p>
+    <h3>Why Protect the Tarkine?</h3>
+    <ul>
+        <li><strong>Biodiversity:</strong> The Tarkine is home to endangered species like the Tasmanian Devil.</li>
+        <li><strong>Cultural Significance:</strong> The region contains sacred Aboriginal sites, making its protection crucial to Tasmanian heritage.</li>
+        <li><strong>Climate Impact:</strong> The Tarkine acts as a major carbon sink, helping to mitigate climate change.</li>
+    </ul>
+</section>
+
+<section id="opposition">
+    <h2>Opposition to Tarkine Protection</h2>
+    <p>Opponents of protecting the Tarkine often argue that the region’s resources should be developed to boost the local economy. Logging provides timber for industries, and mining promises economic growth. However, the long-term ecological costs are often overlooked in favor of short-term economic gains.</p>
+    <h3>Key Arguments Against Protection:</h3>
+    <ul>
+        <li><strong>Economic Growth:</strong> Mining and logging create jobs and infrastructure for local communities.</li>
+        <li><strong>Resource Utilization:</strong> The Tarkine is rich in minerals and timber that could support industry.</li>
+        <li><strong>Sustainability:</strong> Some believe logging and mining can be done responsibly with mitigation efforts.</li>
+    </ul>
+</section>
+
+<section id="comparison">
+    <h2>Comparison with Other Protests: Tarkine vs. Franklin Dam</h2>
+    <p>The Tarkine protest shares many similarities with the historic Franklin Dam protest. Both campaigns aimed to preserve natural areas from industrial exploitation. The success of the Franklin Dam campaign has had a direct impact on the strategies and tactics used in the Tarkine protests.</p>
+    <h3>Similarities and Differences:</h3>
+    <ul>
+        <li><strong>Media Campaigns:</strong> Both protests used powerful media to sway public opinion.</li>
+        <li><strong>Grassroots Movements:</strong> Grassroots efforts were key in both protests to mobilize public support.</li>
+        <li><strong>Outcomes:</strong> While the Franklin Dam protest succeeded, the Tarkine still faces threats from industry.</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Conclusion</h2>
+    <p>The struggle to protect the Tarkine is far from over. As industries continue to push for development in this valuable area, it’s up to activists, government officials, and the general public to ensure that this wilderness is preserved for future generations.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Save the Tarkine Campaign</p>
+</footer>
+
+</body>
+</html>
